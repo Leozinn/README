@@ -1,1 +1,2 @@
-# Aula1
+Meu Primeiro Projeto GIT.
+Instruções para o Usuario.
